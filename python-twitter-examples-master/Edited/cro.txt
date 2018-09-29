@@ -1,0 +1,1 @@
+*/16 * * * * /usr/bin/python /Users/vivianamarquez/Desktop/Project/2/recolectar_tuits.py
